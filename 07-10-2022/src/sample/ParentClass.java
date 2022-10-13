@@ -1,12 +1,12 @@
 package sample;
 
-public class HelloWorld {
+public class ParentClass {
 
     public static void main(String[] args) {
         int x= 10;
         String name = "Satish";
         System.out.println("Helllo");
-        HelloWorld helloWorld = new HelloWorld();
+        ParentClass helloWorld = new ParentClass();
         helloWorld.test2();
         test();
         helloWorld.test3();
@@ -15,6 +15,10 @@ public class HelloWorld {
 
     public void car(){
         System.out.println("Maruthi 800");
+    }
+
+    public void land(){
+        System.out.println("100 Acres");
     }
 
     public static void test(){

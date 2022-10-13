@@ -13,6 +13,7 @@ public class Main {
         System.out.println(obj2.name);
 
         EncapsulationExample ensObj = new EncapsulationExample();
+
         ensObj.setPassword("7as$^h8*");
         System.out.println(ensObj.getPassword());
     }
