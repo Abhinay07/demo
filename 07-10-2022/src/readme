@@ -1,0 +1,21 @@
+Inheritance
+
+Getting all the properties and methods from parent class ( Base class) to child class.
+
+
+Return types
+void -- Return nothing
+int - it will return int value
+String = it will return string value
+Double, float - it will return that dataType
+
+public -- It will accessable everywhere in project.
+private -- it will accessable inside the class.
+default -- By Default JVM will take default. Accessable within Package.
+protected -- It will accessable into other packages.
+
+Encapsulation
+
+It is a mechanism used to hide sensitive data from users.
+Variables will be set as private so that it can't be accessed directly.
+It can be achieved using setters and getters methods.
