@@ -29,3 +29,13 @@ One method can showcase into many forms.
 
 MethodOverride - To access a method from a parent(Super) class into child class. Runtime Polymorphism.
 MethodOverloading - To use same method in same class with different no. of arguments and different dataType. ComplieTime Polymorphism
+
+Abstraction -- Hiding Internal details and showing what is required.
+Class which extends abstract class must and should implement abstract methods or it will also become abstract class.
+Abstract class can have abstract methods and non-abstract methods.
+Abstact class can't have objects.
+It will implemented by using "extends" keyword.
+A class can only extend one another class.
+
+Interface -- 100% Abstract Methods. It will implemented by using "implements" keyword.
+A class can implement n number of interfaces.
