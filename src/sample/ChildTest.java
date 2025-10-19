@@ -1,3 +1,5 @@
+package src.sample;
+
 public class ChildTest extends ParentTest{
 
     /*@Override

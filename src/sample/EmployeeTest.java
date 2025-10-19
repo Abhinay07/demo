@@ -1,3 +1,5 @@
+package src.sample;
+
 public class EmployeeTest {
 
     public String empName;

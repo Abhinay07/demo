@@ -1,3 +1,5 @@
+package src.sample;
+
 final class Employee {
     private final int id;
     private final String name;

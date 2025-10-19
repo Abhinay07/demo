@@ -1,3 +1,5 @@
+package src.sample;
+
 public class ParentTest {
 
     public String test(){
